@@ -1,0 +1,1 @@
+# Syberia-Medicine-guide-Obsidian-Vault

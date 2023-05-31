@@ -1,6 +1,6 @@
 ## MENTAL STATE ![image](https://user-images.githubusercontent.com/7808279/176215962-11610f81-87ae-42e9-abe1-d29927e23473.png)
 
-
+#Mental
 The mental state can be affected in case of killing players or zombies in a shorter time. Antidepressants are the correct medicine for softening the symptoms.
 
 |      Substance     | Level | Container | Heal Time (s) | Overdose Increment |

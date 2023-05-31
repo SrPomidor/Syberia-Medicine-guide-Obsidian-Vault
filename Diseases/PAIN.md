@@ -1,6 +1,6 @@
 ## PAIN ![image](https://user-images.githubusercontent.com/7808279/176214280-8c9baddd-e8df-4a0c-98e6-a28bcc594943.png)
 
-
+#Pain
 The pain occurs when receiving various wounds. 
 The degree of pain depends on the severity of the injury. 
 The pain goes away on its own after a time. 

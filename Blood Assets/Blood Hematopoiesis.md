@@ -1,5 +1,7 @@
 ## Blood Hematopoiesis ![image](https://user-images.githubusercontent.com/7808279/176251701-24e60b09-9c18-4606-9bee-0153757384d2.png)
 
+#Blood #BloodHematopoiesis 
+
 Hematopoiesis is the blood cell production process by the body. The player can utilise substances to improve blood regeneration.
 
 |      Substance     | Container |Effect Time (s)| Overdose Increment |

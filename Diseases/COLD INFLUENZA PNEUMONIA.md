@@ -1,6 +1,6 @@
 ## COLD / INFLUENZA / PNEUMONIA ![image](https://user-images.githubusercontent.com/7808279/176214359-3e3a857d-c48a-49f6-a90b-99f2d64e02ac.png)
 
-
+#Cold
 You can catch a cold or influenza from hypothermia. 
 Over time, the colds will progress to the lungs and, at the last stage, will change into pneumonia. 
 With pneumonia, your character will slowly begin to lose health. 

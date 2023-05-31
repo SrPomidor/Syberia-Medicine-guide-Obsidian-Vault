@@ -1,5 +1,5 @@
 ## BRAIN CONCUSSION ![image](https://user-images.githubusercontent.com/7808279/176217926-d32d2f9b-0b1d-4d1d-8c22-7a409097b06f.png)
-
+#BrainConcussion 
 A concussion can be obtained from being hit on the head with a blunt weapon or as a small-calibre bullet injury when using a ballistic helmet. 
 A concussion resolves itself over time, but the player can use specialized medications to speed up the treatment.
 

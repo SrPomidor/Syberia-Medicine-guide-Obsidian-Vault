@@ -1,5 +1,5 @@
 ## SEPSIS ![image](https://user-images.githubusercontent.com/7808279/176216035-ac3b8611-f02b-4761-a1bf-3d78e665f759.png)
-
+#Sepsis
 Sepsis occurs when an infection enters an open wound. 
 This can happen from a zombie scratch, knife, or bullet wound with a small chance. 
 And also with a great chance when manipulating dirty hands with an open wound. 

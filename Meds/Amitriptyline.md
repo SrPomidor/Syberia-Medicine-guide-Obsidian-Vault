@@ -1,2 +1,3 @@
-#Tablet #Ampoule 
+#Tablet 
+#Ampoule #yellow
 #Mental [[MENTAL STATE]]

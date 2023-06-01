@@ -1,2 +1,2 @@
-#Ampoule  
+#Ampoule  #white
 #Stomach [[STOMACH]]

@@ -1,6 +1,6 @@
 ## Blood Hemostatic ![image](https://user-images.githubusercontent.com/7808279/176254325-4c0c29c1-370e-4709-b682-7c38754d8529.png)
 
-#Blood #BloodHemostatic
+#Blood #BloodHemostatic#problem
 
 Primary hemostasis occurs when your body forms a temporary plug to seal an injury. A platelet circulates in your blood, adheres to damaged tissue, and triggers it. More platelets can be recruited through activation to form a platelet "plug" to stop blood loss. The player can utilise substances to reduce the bleeding, getting more time to get the proper treatment (Ex: Clean bandages or a surgery kit).
 

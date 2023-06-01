@@ -1,6 +1,6 @@
 ## STOMACH ![image](https://user-images.githubusercontent.com/7808279/176214427-bf0f1751-8ad1-464d-8916-6048302d71a4.png)
 
-#Stomach
+#Stomach #problem
 
 |      Substance     | Level | Container | Heal Time (s) | Overdose Increment |
 |:------------------:|:-----:|:---------:|:-------------:|:------------------:|

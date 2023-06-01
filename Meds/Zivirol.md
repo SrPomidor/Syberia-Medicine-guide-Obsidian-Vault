@@ -1,3 +1,3 @@
-#Ampoule #Injector 
+#Ampoule #Injector #red
 #ZombieVirus [[ZOMBIE VIRUS]]
 
